@@ -79,7 +79,4 @@ K8s fundamentals:
 
 📁 Folder: `05-kubernetes-basics/`
 
----
 
-## 🎯 Goal
-Build strong DevOps foundations and create a portfolio that demonstrates real understanding.
